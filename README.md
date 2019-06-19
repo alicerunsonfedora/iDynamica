@@ -6,7 +6,7 @@ iOS 13 dynamic wallpapers for macOS.
 
 ## Prerequisites
 
-- [Wallpapper](): a command-line dynamic wallpaper generator for macOS
+- [Wallpapper](https://github.com/mczachurski/wallpapper): a command-line dynamic wallpaper generator for macOS
 
 ## Build instructions
 
