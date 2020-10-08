@@ -1,8 +1,8 @@
-# Zephyr Wallpapers for macOS
+# iOS Dynamic Wallpapers for macOS
 
 ![Zephyr red sample](sample.png)
 
-iOS 13 dynamic wallpapers for macOS.
+iOS dynamic wallpapers for macOS.
 
 ## Prerequisites
 
@@ -13,7 +13,7 @@ iOS 13 dynamic wallpapers for macOS.
 After cloning the directory, in your Terminal, run the following:
 
 ```
-cd <your color of choice (Black, Blue, Green, Red)>
+cd <your OS version of choice (13_Zephyr/14_Rohan)>/<your color of choice>
 wallpapper -i wallpapper.json -o wallpapper.heic
 ```
 
@@ -21,7 +21,8 @@ The result wallpaper will be `wallpapper.heic` where you can apply this wallpape
 
 ## Sources
 
-Images were pulled from this article: http://osxdaily.com/2019/06/06/get-the-ios-13-default-wallpapers/
+- iOS 13 Wallpapers: http://osxdaily.com/2019/06/06/get-the-ios-13-default-wallpapers/
+- iOS 14 Wallpapers: https://www.idownloadblog.com/2020/06/22/ios-14-iphone-wallpapers/
 
 ## License
 
